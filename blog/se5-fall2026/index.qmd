@@ -1,0 +1,36 @@
+---
+author: [Kathryn Boidock, Kaitlyn Walker, Ritesh Ojha, Gregory M. Kapfhammer]
+title: Introduction to Software Testing
+date: '2026-10-12'
+date-format: long
+categories: [post, professional development, software engineering]
+description: <em>Intentional inclusion is required to stop engineering biases from harming users and other engineers alike.</em>
+toc: true
+page-layout: full
+---
+
+## Overview
+
+## Bias Is the Default
+
+## Disrupting the "Computer Science Degree" Myth:
+
+## Diversity over Quantity
+
+## Rejecting Singular Approaches
+
+## Challenging Established Processes
+
+## Values vs Outcomes
+
+## Pushing Forward
+
+
+::: {.callout-note appearance="minimal" title="Open-Source Tool for Software Engineers" collapse="false"}
+
+Our team built `TBA`, a simple CLI for TBA. You can view the project here: [TBA on
+GitHub](TBA).
+
+:::
+
+{{< include /_back-blog.qmd >}}
